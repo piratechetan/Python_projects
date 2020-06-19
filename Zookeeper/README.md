@@ -1,15 +1,15 @@
-HELLO! 
+# ZOOKEEPER PYTHON PROJECT
+This is Project for Zookeeper for tracking and update of animals
 
-Welcome to my Zookeeper python Beginners Projects
-  
-In this project use only first level of python simple command like:
-Loop
-List 
-If-Else
+## Requirement
+* Python3.x
+** Lists
+** Loops
+** Conditional Statement
+** Exceptional Handling
+* Linux/Windows/Mac OS
+* IDE
+## Update
 
 
-
-Hope you like It
-
-
-THANK-YOU
+### THANK-YOU
