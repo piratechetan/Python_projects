@@ -128,9 +128,12 @@ while True:
     if x == 'exit':
         print("See you!")
         break
-    else:
-        x = int(x)
-        print(animals[x])
+    Try:
+     x = int(x)
+     print(animals[x])
+    
+    except:
+     print("invalid entry")
         
         
   
